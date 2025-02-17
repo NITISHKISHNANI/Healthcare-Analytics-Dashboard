@@ -48,10 +48,7 @@ This **Power BI Dashboard** provides insights into hospital operations, patient 
 ### **2️⃣ Explore in Power BI**  
 1. Download `Healthcare Dashboard.pbix`.  
 2. Open it in **Power BI Desktop**.  
-3. Interact with the filters and visualizations.  
-
-### **3️⃣ Analyze the Dataset (Optional)**  
-- Download `Healthcare Data.xlsx` to review the raw data.  
+3. Interact with the filters and visualizations.   
 
 ---
 
