@@ -28,7 +28,7 @@ This **Power BI Dashboard** provides insights into hospital operations, patient 
 
 ## 📸 Dashboard Preview  
 
-![Healthcare](Healthcare%20.jpg)  
+![Healthcare](Healthcare.jpg)  
 
 ---
 
